@@ -54,3 +54,6 @@ function Output(start, end) {
 }
 
 console.log(Output([0,0],[2,5]))
+
+
+module.exports = {knightMoves}
