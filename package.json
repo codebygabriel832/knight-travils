@@ -1,0 +1,23 @@
+{
+  "name": "knight-travils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebygabriel832/knight-travils.git"
+  },
+  "keywords": [],
+  "author": "Gabriel Macharia <gabrielwanjau832@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codebygabriel832/knight-travils/issues"
+  },
+  "homepage": "https://github.com/codebygabriel832/knight-travils#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
